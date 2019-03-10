@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f27603c-f5ab-47a6-9c22-60855c462d47" name="Default Changelist" comment="" />
+    <list default="true" id="5f27603c-f5ab-47a6-9c22-60855c462d47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Clas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DASKALO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/School.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/DISCIPLINI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Disciplines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Klas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Prepodawatel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/UCHENICI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Uchilishte.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +28,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="100">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Uchilishte.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/School.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
@@ -30,7 +44,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Klas.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Clas.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -39,7 +53,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Prepodawatel.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -48,16 +62,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/UCHENICI.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Students.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="60">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/DISCIPLINI.java">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Disciplines.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
               <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
@@ -86,6 +100,9 @@
         <option value="$PROJECT_DIR$/src/edu/java/nakov/exLast/Klas.java" />
         <option value="$PROJECT_DIR$/src/edu/java/nakov/exLast/Uchilishte.java" />
         <option value="$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/java/nakov/exLast/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/edu/java/nakov/exLast/School.java" />
+        <option value="$PROJECT_DIR$/src/edu/java/nakov/exLast/Students.java" />
       </list>
     </option>
   </component>
@@ -108,10 +125,45 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DASKALO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DASKALO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DASKALO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DASKALO" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DASKALO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DASKALO" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DASKALO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DASKALO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DASKALO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DASKALO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exLast" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550694314618" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552240657355" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +180,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="edu.java.nakov.exLast.Main" />
-      <module name="DASKALO" />
+      <module name="School" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -157,9 +209,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1288" height="728" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15973377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3097561" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -168,7 +219,7 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.87703437" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -193,45 +244,45 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/DISCIPLINI.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/UCHENICI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Prepodawatel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Klas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Uchilishte.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/School.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Clas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Students.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/java/nakov/exLast/Disciplines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>

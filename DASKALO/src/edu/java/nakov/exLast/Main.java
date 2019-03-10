@@ -1,29 +1,27 @@
 package edu.java.nakov.exLast;
 
-import java.util.Dictionary;
-
 public class Main {
 
     public static void main(String[] args) {
-        UCHENICI a = new UCHENICI("ivan",1);
-        UCHENICI b = new UCHENICI("ivan",2);
-        UCHENICI c = new UCHENICI("ivan",3);
+        Students a = new Students("ivan",1);
+        Students b = new Students("ivan",2);
+        Students c = new Students("ivan",3);
         //do tuk suzdadohme uchenici !!! i raboti !
-        DISCIPLINI bel = new DISCIPLINI("BEL",10,10);
-        DISCIPLINI mat = new DISCIPLINI("MAT",10,10) ;
-        DISCIPLINI fize = new DISCIPLINI("Fize",10 , 10);
+        Disciplines bel = new Disciplines("BEL",10,10);
+        Disciplines mat = new Disciplines("MAT",10,10) ;
+        Disciplines fize = new Disciplines("Fize",10 , 10);
         //do tuk suzdadohme i disciplinite !!!
-        Prepodawatel Gigova= new Prepodawatel();
+        Teacher Gigova= new Teacher();
         Gigova.discipliniNaPrepodawatelq[0]=bel;
         Gigova.discipliniNaPrepodawatelq[1]=mat;
         Gigova.discipliniNaPrepodawatelq[2]=fize;
         //do tuk uspqhme da suzdadem prepodawatel !!
-        Klas a1= new Klas("12z");
-        a1.prepodawatels[0]=Gigova;
-        Klas a2 = new Klas("12o");
-        a2.prepodawatels[1]=Gigova;
+        Clas a1= new Clas("12z");
+        a1.teachers[0]=Gigova;
+        Clas a2 = new Clas("12o");
+        a2.teachers[1]=Gigova;
         //do tuk uspqhme da suzdadem PREPODAWATEL ^.^
-        Uchilishte PGEA = new Uchilishte();
+        School PGEA = new School();
         PGEA.klasvowe[0]=a1;
         PGEA.klasvowe[1]=a2;
         PGEA.uchenici[0]=a;
@@ -41,9 +39,9 @@ public class Main {
             System.out.println(PGEA.klasvowe[i].name);
 
             for (int j = 0; j <PGEA.klasvowe.length+1; j++) {
-                System.out.println(PGEA.klasvowe[i].prepodawatels[i].discipliniNaPrepodawatelq[j].name);
-                System.out.println(PGEA.klasvowe[i].prepodawatels[i].discipliniNaPrepodawatelq[j].broiUroci);
-                System.out.println(PGEA.klasvowe[i].prepodawatels[i].discipliniNaPrepodawatelq[j].broiUprajneniq);
+                System.out.println(PGEA.klasvowe[i].teachers[i].discipliniNaPrepodawatelq[j].name);
+                System.out.println(PGEA.klasvowe[i].teachers[i].discipliniNaPrepodawatelq[j].broiUroci);
+                System.out.println(PGEA.klasvowe[i].teachers[i].discipliniNaPrepodawatelq[j].broiUprajneniq);
 
             }
 
