@@ -1,8 +1,8 @@
 package edu.java.nakov.exLast;
 
 public class School {
-Clas[] klasvowe= new Clas[2];
-Students[]  uchenici = new Students[50];
+Clas[] classes = new Clas[2];
+Students[] students = new Students[50];
 
 
 }

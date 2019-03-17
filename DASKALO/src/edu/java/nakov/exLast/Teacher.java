@@ -2,7 +2,7 @@ package edu.java.nakov.exLast;
 
 public class Teacher {
 
-Disciplines[] discipliniNaPrepodawatelq= new Disciplines[3];
+Disciplines[] disciplinesOfTheLecturer= new Disciplines[3];
 
 
 

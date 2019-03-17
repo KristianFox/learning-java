@@ -2,11 +2,11 @@ package edu.java.nakov.exLast;
 
 public class Students {
     public String name;
-    public int numberOfClass;
+    public int numberInClass;
 
-    public Students(String name, int numberOfClass) {
+    public Students(String name, int numberInClass) {
         this.name = name;
-        this.numberOfClass = numberOfClass;
+        this.numberInClass = numberInClass;
     }
 
 

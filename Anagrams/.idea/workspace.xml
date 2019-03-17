@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f482317-c428-404e-9e7a-9e42a3b9a11d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/java/academy/ex1/CheckTheDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/src/edu/java/itStep/anagrams/HelperClass.java" afterDir="false" />
+    <list default="true" id="b35f3204-fba7-4319-87a0-8607c34cc031" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Academy/src/edu/java/academy/ex1/CheckTheDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/java/itStep/anagrams/HelperClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Test/src/edu/java/itStep/Test/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/academy/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/academy/ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Academy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Academy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Academy/src/edu/java/academy/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Academy/src/edu/java/academy/ex1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Anagramss/Anagramss.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DASKALO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DASKALO/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DASKALO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DASKALO/.idea/workspace.xml" afterDir="false" />
@@ -32,26 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/academy/ex1/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/itStep/anagrams/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="140">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/edu/java/academy/ex1/CheckTheDirectory.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/java/itStep/anagrams/HelperClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="377">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -71,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/edu/java/academy/ex1/CheckTheDirectory.java" />
-        <option value="$PROJECT_DIR$/src/edu/java/academy/ex1/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/java/itStep/anagrams/HelperClass.java" />
+        <option value="$PROJECT_DIR$/src/edu/java/itStep/anagrams/Main.java" />
       </list>
     </option>
   </component>
@@ -97,37 +91,33 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Academy" type="462c0819:PsiDirectoryNode" />
+              <item name="Anagrams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anagrams" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Academy" type="462c0819:PsiDirectoryNode" />
+              <item name="Anagrams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anagrams" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Academy" type="462c0819:PsiDirectoryNode" />
+              <item name="Anagrams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anagrams" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Academy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="anagrams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552820963182" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552820947408" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,23 +131,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Academy">
-    <configuration name="Academy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.java.academy.ex1.Academy" />
-      <module name="Academy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.java.academy.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="edu.java.academy.ex1.Main" />
-      <module name="Academy" />
+      <option name="MAIN_CLASS_NAME" value="edu.java.itStep.anagrams.Main" />
+      <module name="Anagrams" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -165,28 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hgvjhf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.java.academy.ex1.hgvjhf" />
-      <module name="Academy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.java.academy.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Academy" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.hgvjhf" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Academy" />
-        <item itemvalue="Application.hgvjhf" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -196,11 +153,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5f482317-c428-404e-9e7a-9e42a3b9a11d" name="Default Changelist" comment="" />
-      <created>1549826528924</created>
+      <changelist id="b35f3204-fba7-4319-87a0-8607c34cc031" name="Default Changelist" comment="" />
+      <created>1552819523943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549826528924</updated>
+      <updated>1552819523943</updated>
     </task>
     <servers />
   </component>
@@ -208,7 +165,7 @@
     <frame x="10" y="20" width="1260" height="680" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17221297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15973377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -226,7 +183,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,34 +191,21 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven" order="7" visible="true" weight="0.16472545" />
+      <window_info anchor="right" id="Maven" order="7" visible="true" weight="0.16139767" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CheckTheDirectory.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/java/itStep/anagrams/HelperClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="377">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/academy/ex1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/java/itStep/anagrams/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/java/academy/ex1/CheckTheDirectory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
