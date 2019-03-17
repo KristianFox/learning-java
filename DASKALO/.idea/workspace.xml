@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f27603c-f5ab-47a6-9c22-60855c462d47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Academy/src/edu/java/academy/ex1/CheckTheDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Anagrams/src/edu/java/itStep/anagrams/HelperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/src/edu/java/itStep/Test/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Academy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Academy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Academy/src/edu/java/academy/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Academy/src/edu/java/academy/ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Anagramss/Anagramss.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Disciplines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Disciplines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/java/nakov/exLast/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Home/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Home/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/ItStepPtoject.iml" afterDir="false" />
-    </list>
+    <list default="true" id="5f27603c-f5ab-47a6-9c22-60855c462d47" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,19 +113,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="School" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DASKALO" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,9 +169,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1288" height="728" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3520325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35853657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
