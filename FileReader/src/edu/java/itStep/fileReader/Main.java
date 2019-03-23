@@ -45,15 +45,15 @@ public class Main {
          * If we found the word we increment the `index` variable with the word length
          * and continue searching for the word. The last check is the end of the file
          */
-        for (int index = 0; index < content.length(); index += currentIndex) {
+        for (int index = 0; index < content.length(); index ++) {
             currentIndex = content.indexOf(searchingWord, index);
 
             if (currentIndex == -1) {
                 break;
-            } else {
-                wordIndexes.add(currentIndex);
-                currentIndex += wordLength;
             }
+                wordIndexes.add(currentIndex);
+                index = currentIndex;
+
 
             wordCount++;
         }
